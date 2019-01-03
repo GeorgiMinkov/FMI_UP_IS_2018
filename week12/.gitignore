@@ -1,10 +1,5 @@
-# visual studio solution file
 *.sln
 
-# project files
 *.vcxproj.*
 
-*.vcxproj
-
-# hidden VS folder
 .vs
